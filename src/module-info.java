@@ -1,0 +1,2 @@
+module company_lockers {
+}
